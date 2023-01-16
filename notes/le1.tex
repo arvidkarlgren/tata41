@@ -1,0 +1,73 @@
+\documentclass[swedish]{article}
+
+\usepackage[a4paper,left=1in,right=1in,top=1.25in,bottom=1.25in]{geometry}
+\usepackage[style=iso]{datetime2}
+\usepackage{graphicx}
+\usepackage{amssymb}
+
+\author{Arvid Karlgren}
+\title{Föreläsning 1\\
+       \LARGE Gränsvärden: Definition och räkneregler}
+
+\renewcommand{\contentsname}{Innehåll}
+\setlength\parindent{0pt}
+
+\begin{document}
+
+\maketitle
+
+\tableofcontents
+
+\pagebreak
+
+\section{Kursens mål}
+
+Kursen kommer att hantera följande områden:
+
+\begin{enumerate}
+    \item Kontinuitet
+    \item Gränsvärden
+    \item Derivata
+    \item Funktionsundersökning
+    \item Primitiva funktioner
+    \item Integraler
+\end{enumerate}
+
+\section{Gränsvärden}
+
+\subsection{Definition}
+
+Gränsvärden handlar om hur en funktion ser ut (vilka värden den antar) när x närmar sig olika värden. Det finns två typer av gränsvärden.
+
+\begin{itemize}
+    \item{Nära (men ej i) en punkt $a\in x$.}
+    \item{För obegränsat stora positiva eller negativa $x\in \mathbb{R}$.}
+\end{itemize}
+
+Gränsvärden betecknas med $\to$, till exempel $x \to a$ ("$x$ går mot $a$").
+
+Figur 1 visar några fall där den exakta definitionen av gränsvärden spelar stor roll. 
+
+\begin{figure}[h!]
+    \includegraphics[width=\linewidth]{figure1.png}
+    \label{fig:figure1}
+    \caption{Olika fall för gränsvärden.}
+\end{figure}
+
+Utifrån figur 1 vill vi, utifrån definitionen för gränsvärden, kunna säga följande:
+
+\begin{itemize}
+    \item{$f(x) \to A$ då $x \to x_1$, ($x_1 \notin D_f$), alternativt: \\
+        \[\lim_{x \to x_1} f(x) = A\]}
+    \item{$f(x) \to A$ då $x \to x_2$, ($x_2 \in D_f$, $f(x_2) = B$).}
+    \item{$f(x) \to A$ då $x \to x_3$, ($x_3 \in D_f$, $f(x_3) = A$).}
+    \item{$f(x)$ saknar gränsvärden då $x \to x_4$ eller $x \to x_5$.}
+\end{itemize}
+
+\subsection{Räkneregler}
+
+\subsection{Exempel}
+
+
+
+\end{document}
