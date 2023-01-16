@@ -1,0 +1,5 @@
+\contentsline {section}{\numberline {1}Kursens mål}{2}{}%
+\contentsline {section}{\numberline {2}Gränsvärden}{3}{}%
+\contentsline {subsection}{\numberline {2.1}Definition}{3}{}%
+\contentsline {subsubsection}{\numberline {2.1.1}Exempel}{4}{}%
+\contentsline {subsection}{\numberline {2.2}Räkneregler}{4}{}%
