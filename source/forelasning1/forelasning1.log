@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Arch Linux) (preloaded format=pdflatex 2022.11.9)  19 JAN 2023 17:22
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Arch Linux) (preloaded format=pdflatex 2022.11.9)  19 JAN 2023 17:25
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -211,20 +211,20 @@ File: l3backend-pdftex.def 2022-04-14 L3 backend support: PDF output (pdfTeX)
 (./forelasning1.aux)
 \openout1 = `forelasning1.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -282,13 +282,13 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-LaTeX Font Info:    Trying to load font information for U+msa on input line 19.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 20.
 
 
 (/usr/share/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 19.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 20.
 
 
 (/usr/share/texmf-dist/tex/latex/amsfonts/umsb.fd
@@ -299,10 +299,10 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 <figur1.png, id=13, 1315.16344pt x 672.26157pt>
 File: figur1.png Graphic file (type png)
 <use figur1.png>
-Package pdftex.def Info: figur1.png  used on input line 56.
+Package pdftex.def Info: figur1.png  used on input line 57.
 (pdftex.def)             Requested size: 452.9679pt x 231.53043pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 71--72
+Underfull \hbox (badness 10000) in paragraph at lines 72--73
 
  []
 
@@ -310,19 +310,19 @@ Underfull \hbox (badness 10000) in paragraph at lines 71--72
 <figur2.png, id=27, 1100.61188pt x 588.69937pt>
 File: figur2.png Graphic file (type png)
 <use figur2.png>
-Package pdftex.def Info: figur2.png  used on input line 95.
+Package pdftex.def Info: figur2.png  used on input line 96.
 (pdftex.def)             Requested size: 398.33858pt x 213.06345pt.
 <figur3.png, id=29, 1107.38719pt x 587.94656pt>
 File: figur3.png Graphic file (type png)
 <use figur3.png>
-Package pdftex.def Info: figur3.png  used on input line 109.
+Package pdftex.def Info: figur3.png  used on input line 110.
 (pdftex.def)             Requested size: 398.33858pt x 211.49014pt.
  [4 <./figur2.png> <./figur3.png>] [5] [6]
 (./forelasning1.aux) ) 
 Here is how much of TeX's memory you used:
  6787 strings out of 478238
  125825 string characters out of 5850456
- 439810 words of memory out of 5000000
+ 438819 words of memory out of 5000000
  24959 multiletter control sequences out of 15000+600000
  478076 words of font info for 62 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -343,7 +343,7 @@ nts/type1/public/amsfonts/cm/cmsy5.pfb></usr/share/texmf-dist/fonts/type1/publi
 c/amsfonts/cm/cmsy7.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/symb
 ols/msbm10.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb>
 
-Output written on forelasning1.pdf (6 pages, 327839 bytes).
+Output written on forelasning1.pdf (6 pages, 327833 bytes).
 PDF statistics:
  115 PDF objects out of 1000 (max. 8388607)
  67 compressed objects within 1 object stream
