@@ -1,3 +1,0 @@
-# Anteckningar
-
-Anteckningar från föreläsningar.
